@@ -1,2 +1,6 @@
-# InternationalSoccer
-Performed advanced analysis by implementing machine learning and statistical modeling: regression, clustering, and time series analysis
+# International Soccer Matches: Advanced Analysis
+## Introduction
+## Key Questions
+## Data
+## Tools
+## Visualization
